@@ -1,2 +1,8 @@
 ﻿  DoubleMatrix.c
+C:\daila\home\projects\C\DoubleMatrix\DoubleMatrix\DoubleMatrix.c(77,9): warning C4477: "printf": в строке форматирования "%p" требуется аргумент типа "void *", но вариативный аргумент "5" имеет тип "int"
+C:\daila\home\projects\C\DoubleMatrix\DoubleMatrix\DoubleMatrix.c(77,9): warning C4313: printf: конфликт "%p" в строке формата с аргументом 5 типа "int"
+C:\daila\home\projects\C\DoubleMatrix\DoubleMatrix\DoubleMatrix.c(77,9): warning C4477: "printf": в строке форматирования "%d" требуется аргумент типа "int", но вариативный аргумент "6" имеет тип "int ***************"
+C:\daila\home\projects\C\DoubleMatrix\DoubleMatrix\DoubleMatrix.c(77,9): warning C4313: printf: конфликт "%d" в строке формата с аргументом 6 типа "int ***************"
+C:\daila\home\projects\C\DoubleMatrix\DoubleMatrix\DoubleMatrix.c(74,24): warning C4047: инициализация: "int ******************" отличается по уровням косвенного обращения от "int ***"
+C:\daila\home\projects\C\DoubleMatrix\DoubleMatrix\DoubleMatrix.c(76,8): warning C4047: инициализация: "int **" отличается по уровням косвенного обращения от "int ******************"
   DoubleMatrix.vcxproj -> C:\daila\home\projects\C\DoubleMatrix\x64\Debug\DoubleMatrix.exe
